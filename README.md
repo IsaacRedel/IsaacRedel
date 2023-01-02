@@ -1,4 +1,4 @@
-### Hello Friend 👋
+### Hello there! 👋
 
 <!--
 **IsaacRedel/IsaacRedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
