@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Isaac Redel — Desenvolvedor Backend">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#0B1E3B"/></linearGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#30363D" fill-opacity="0.6"/></pattern>
+<clipPath id="c0"><rect x="690" y="92" height="22" width="0"><animate attributeName="width" from="0" to="58" begin="0.6s" dur="0.36s" fill="freeze"/></rect></clipPath><clipPath id="c2"><rect x="690" y="144" height="22" width="0"><animate attributeName="width" from="0" to="121" begin="2.0s" dur="0.78s" fill="freeze"/></rect></clipPath><clipPath id="c4"><rect x="690" y="196" height="22" width="0"><animate attributeName="width" from="0" to="130" begin="3.4s" dur="0.84s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect width="1200" height="320" rx="14" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="14" fill="url(#dots)"/>
+<g stroke="#C9D1D9" stroke-opacity="0.13" stroke-width="1.2" fill="none">
+<line x1="0" y1="0" x2="300.0" y2="0.0"/>
+<line x1="0" y1="0" x2="292.5" y2="66.8"/>
+<line x1="0" y1="0" x2="270.3" y2="130.2"/>
+<line x1="0" y1="0" x2="234.5" y2="187.0"/>
+<line x1="0" y1="0" x2="187.0" y2="234.5"/>
+<line x1="0" y1="0" x2="130.2" y2="270.3"/>
+<line x1="0" y1="0" x2="66.8" y2="292.5"/>
+<line x1="0" y1="0" x2="0.0" y2="300.0"/>
+<path d="M45.0,0.0 Q38.5,4.3 43.9,10.0 Q36.5,12.8 40.5,19.5 Q32.8,20.6 35.2,28.1 Q27.4,27.4 28.1,35.2 Q20.6,32.8 19.5,40.5 Q12.8,36.5 10.0,43.9 Q4.3,38.5 0.0,45.0"/>
+<path d="M90.0,0.0 Q76.9,8.7 87.7,20.0 Q73.1,25.6 81.1,39.0 Q65.5,41.2 70.4,56.1 Q54.7,54.7 56.1,70.4 Q41.2,65.5 39.0,81.1 Q25.6,73.1 20.0,87.7 Q8.7,76.9 0.0,90.0"/>
+<path d="M140.0,0.0 Q119.6,13.5 136.5,31.2 Q113.6,39.8 126.1,60.7 Q101.9,64.1 109.5,87.3 Q85.1,85.1 87.3,109.5 Q64.1,101.9 60.7,126.1 Q39.8,113.6 31.2,136.5 Q13.5,119.6 0.0,140.0"/>
+<path d="M195.0,0.0 Q166.6,18.8 190.1,43.4 Q158.3,55.4 175.7,84.6 Q142.0,89.2 152.5,121.6 Q118.6,118.6 121.6,152.5 Q89.2,142.0 84.6,175.7 Q55.4,158.3 43.4,190.1 Q18.8,166.6 0.0,195.0"/>
+<path d="M255.0,0.0 Q217.9,24.6 248.6,56.7 Q207.0,72.4 229.7,110.6 Q185.7,116.7 199.4,159.0 Q155.1,155.1 159.0,199.4 Q116.7,185.7 110.6,229.7 Q72.4,207.0 56.7,248.6 Q24.6,217.9 0.0,255.0"/>
+</g>
+<!-- aranha pendurada -->
+<g>
+<animateTransform attributeName="transform" type="translate" values="0,0;0,14;0,0" dur="4s" repeatCount="indefinite"/>
+<line x1="575" y1="0" x2="575" y2="92" stroke="#C9D1D9" stroke-opacity="0.45" stroke-width="1"/>
+<g stroke="#E5383B" stroke-width="1.8399999999999999" fill="none" stroke-linecap="round"><path d="M575,102 Q567.755,95.1 561.545,88.2"/><path d="M575,102 Q566.145,100.85 558.555,97.4"/><path d="M575,102 Q566.145,105.45 558.555,108.9"/><path d="M575,102 Q567.755,110.05 561.545,116.95"/><path d="M575,102 Q582.245,95.1 588.455,88.2"/><path d="M575,102 Q583.855,100.85 591.445,97.4"/><path d="M575,102 Q583.855,105.45 591.445,108.9"/><path d="M575,102 Q582.245,110.05 588.455,116.95"/></g><ellipse cx="575" cy="103.15" rx="5.175" ry="6.8999999999999995" fill="#E5383B"/><circle cx="575" cy="95.1" r="3.4499999999999997" fill="#E5383B"/>
+</g>
+<!-- texto -->
+<text x="62" y="98" font-family="'Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="18" fill="#8B949E">// olá, eu sou o</text>
+<text x="60" y="162" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="64" font-weight="800" fill="#E6EDF3">Isaac Redel</text>
+<text x="62" y="206" font-family="'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif" font-size="27" font-weight="600" fill="#1E90FF">Desenvolvedor Backend</text>
+<text x="62" y="242" font-family="'Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="16" fill="#8B949E">C# · .NET · Lua · JavaScript · MariaDB</text>
+<rect x="62" y="262" height="4" rx="2" width="0" fill="#E5383B"><animate attributeName="width" from="0" to="120" begin="0.3s" dur="0.8s" fill="freeze"/></rect>
+<!-- terminal -->
+<g>
+<rect x="650" y="44" width="505" height="236" rx="10" fill="#010409" fill-opacity="0.85" stroke="#30363D"/>
+<path d="M650 54 a10 10 0 0 1 10 -10 h485 a10 10 0 0 1 10 10 v20 h-505 z" fill="#161B22"/>
+<circle cx="668" cy="59" r="5.5" fill="#FF5F56"/><circle cx="686" cy="59" r="5.5" fill="#FFBD2E"/><circle cx="704" cy="59" r="5.5" fill="#27C93F"/>
+<text x="902.5" y="64" text-anchor="middle" font-family="'Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="13" fill="#8B949E">isaac@dev: ~</text>
+<g font-family="'Cascadia Code','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="15">
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.35s" fill="freeze"/><text x="672" y="108" fill="#3FB950">$</text><text x="690" y="108" fill="#E6EDF3" clip-path="url(#c0)">whoami</text></g>
+<text x="672" y="134" fill="#8B949E" opacity="0"><set attributeName="opacity" to="1" begin="1.5s" fill="freeze"/>isaac — desenvolvedor backend (Brasil)</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="1.75s" fill="freeze"/><text x="672" y="160" fill="#3FB950">$</text><text x="690" y="160" fill="#E6EDF3" clip-path="url(#c2)">cat stack.txt</text></g>
+<text x="672" y="186" fill="#1E90FF" opacity="0"><set attributeName="opacity" to="1" begin="2.9s" fill="freeze"/>C# | .NET | Lua | JavaScript | MariaDB</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="3.15s" fill="freeze"/><text x="672" y="212" fill="#3FB950">$</text><text x="690" y="212" fill="#E6EDF3" clip-path="url(#c4)">cat status.txt</text></g>
+<text x="672" y="238" fill="#3FB950" opacity="0"><set attributeName="opacity" to="1" begin="4.5s" fill="freeze"/>✔ desenvolvendo sistemas em produção</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="4.8s" fill="freeze"/><text x="672" y="264" fill="#3FB950">$</text><rect x="690" y="250" width="9" height="17" fill="#E6EDF3"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect></g>
+</g>
+</g>
+</svg>
