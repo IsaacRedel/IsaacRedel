@@ -42,6 +42,7 @@
 
 | Projeto | O que faz |
 |---|---|
+| **[FiveFly](https://github.com/IsaacRedel/FiveFly)** | Player de música open source para FiveM: app no lb-phone, painel, playlists, perfis e áudio espacial em caixas de som e veículos. Funciona com Qbox, QBCore, ESX e vRP. [▶ Ver demo](https://isaacredel.github.io/FiveFly/preview.html) |
 | **Pesadelo** | Modo de terror assimétrico (1 assassino vs até 4 sobreviventes), com lobby, HUD e tela de resultado |
 | **Pool de Doações** | Várias metas de doação simultâneas; ao bater 100%, a meta libera um buff para o servidor inteiro, e buffs de pools diferentes podem ficar ativos juntos |
 | **Leilão** | Sistema de leilão dentro do jogo, com interface própria |
