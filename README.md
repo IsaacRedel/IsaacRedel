@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/IsaacRedel/IsaacRedel/blob/main/README.en.md"><img src="https://img.shields.io/badge/Read_in-English-1E90FF?style=for-the-badge" alt="Read in English"></a>
+</p>
+
+<p align="center">
   Crio sistemas backend, integrações e interfaces para um servidor multiplayer com usuários reais.
 </p>
 
@@ -38,16 +42,11 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🎮 O que já desenvolvi
+## 🎮 Projetos
 
 | Projeto | O que faz |
 |---|---|
 | **[FiveFly](https://github.com/IsaacRedel/FiveFly)** | Player de música open source para FiveM: app no lb-phone, painel, playlists, perfis e áudio espacial em caixas de som e veículos. Funciona com Qbox, QBCore, ESX e vRP. [▶ Ver demo](https://isaacredel.github.io/FiveFly/preview.html) |
-| **Pesadelo** | Modo de terror assimétrico (1 assassino vs até 4 sobreviventes), com lobby, HUD e tela de resultado |
-| **Pool de Doações** | Várias metas de doação simultâneas; ao bater 100%, a meta libera um buff para o servidor inteiro, e buffs de pools diferentes podem ficar ativos juntos |
-| **Leilão** | Sistema de leilão dentro do jogo, com interface própria |
-| **Blitz Policial** | Ferramentas para a polícia montar bloqueios: cones, barricadas e tapetes de pregos |
-| **Jornalzinho** | Aviso de atualizações no HUD e quadro de changelog no menu ESC |
 
 ## 📫 Vamos conversar?
 
